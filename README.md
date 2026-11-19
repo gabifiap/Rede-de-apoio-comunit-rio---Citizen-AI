@@ -2,7 +2,13 @@
 
 **Global Solution 2026.2 · Data Structures and Algorithms (DSA) · Linguagem C**
 
-Turma 1CC-FEV · Integrantes: [preencher os nomes]
+Turma 1CCPH
+
+| Integrante | RM |
+|---|---|
+| `Gabriela Batista` | 573583 |
+| `Samara Carvalho` | 573666 |
+
 
 Protótipo de terminal que cadastra, consulta, pesquisa, atualiza, exclui e ordena pontos de apoio ao cidadão
 (hospitais, CAPS, alimentação, acolhimento, animais, mulheres em situação de violência e contatos de emergência)
