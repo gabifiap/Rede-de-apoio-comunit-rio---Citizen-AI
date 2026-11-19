@@ -226,12 +226,6 @@ detectado em nenhum teste.**
 - A senha do servidor é fixa no código; um sistema real teria autenticação individual e registro de quem alterou.
 - Terminal apenas; uma versão real seria web/mobile com dados abertos atualizados automaticamente.
 
-## 10. Roteiro da demonstração
+## 10. Demonstração
 
-1. Compilar e abrir o programa; mostrar a pergunta "Quem é você?" e a carga de 92 registros.
-2. **Cidadão:** ler a tela "Como funciona"; escolher região Norte + saúde mental (4 resultados); ver detalhes de um id;
-   fazer nova pesquisa Centro + animais (sem resultado e telefones de emergência); testar a opção "Todos".
-3. **Ordenação:** ordenar por id crescente (4186 comparações) e depois decrescente (91) para mostrar pior e melhor caso.
-4. **Servidor:** errar a senha 3 vezes; entrar com a senha correta; cadastrar (testar id duplicado e capacidade inválida);
-   atualizar; excluir; salvar no CSV.
-5. Mostrar `evidencias_testes.txt` e o trecho do código de `lista_remover` e `ordenar_insertion`.
+https://youtu.be/fzn9Ew-oPJg
